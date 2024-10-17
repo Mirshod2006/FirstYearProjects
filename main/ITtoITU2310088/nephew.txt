@@ -1,0 +1,10 @@
+In this text file i am representing nephews and nieces!
+1)nephew(elizabeth,charles2)
+ true
+2)nephew(elizabeth,james2)
+ true
+3)niece(elizabeth,catherine)
+ true
+4)niece(charles1,sophia)
+ true
+All other choices are false;

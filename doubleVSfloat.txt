@@ -1,0 +1,13 @@
+DOUBLE NUMBER WITH CURTAINE EXPRESSIONS 
+62.0
+-8.0
+92.0
+13.142857142857142
+3.1428571428571423
+FLOAT NUMBER WITH ABOVE EXPRESSIONS
+62.0
+-8.0
+92.0
+13.142858
+3.1428576
+Overall we can assume that double numbers have higher pricision other than floating numbers!

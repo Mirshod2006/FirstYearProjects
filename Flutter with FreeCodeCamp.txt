@@ -1,0 +1,45 @@
+Flutter with FreeCodeCamp
+GETTING USER INFO PART
+Authentication the user in Firebase "https://firebase.flutter.dev/docs/auth/usage/"
+with TEXTFIELD()which is implemented inside of the Column Widget we made two data entery points to get personal infos from user  
+Stateless -> Stateful we need to grab the text from our controllers
+we can convert Stateless to Stateful and Stateful to Stateless by pressing "CTRL+."
+Two Test Controller are initialized and linked with TextEditingControllers!
+Create the User "FirebaseAuth.instance.createUserWithEmailAndPassword" 
+To demand the safity of the user we made "obscureText: true,"
+My teacher made some changes other than obscureText, tose are "autocorrect:false,","enableSuggestions:false,",         "keyboardType:TextInputType.emailAddress,"
+we have initialized Firebase with these commands 
+ await Firebase.initializeApp(
+              options:DefaultFirebaseOptions.currentPlatform,
+            );
+But we got another error that "configuration not found"!
+We have enabled to see Loading while network connection was interupted and connecting or joining the user info with switch case,connectionState and FutureBuilder!
+To create stateful widget use from stf 
+In order to rename symbols you can use "CTR + F2"
+
+Console Error!!!
+ /FirebaseAuth(10075): Logging in as xamrayevmironshoh@gmail.com with empty reCAPTCHA token
+I/flutter (10075): Instance of 'Future<UserCredential>'
+W/System  (10075): Ignoring header X-Firebase-Locale because its value was null.
+D/TrafficStats(10075): tagSocket(6) with statsTag=0xffffffff, statsUid=-1
+E/RecaptchaCallWrapper(10075): Initial task failed for action RecaptchaAction(action=signInWithPassword)with exception - The supplied auth credential is incorrect, malformed or has expired.
+E/flutter (10075): [ERROR:flutter/runtime/dart_vm_initializer.cc(41)] Unhandled Exception: [firebase_auth/invalid-credential] The supplied auth credential is incorrect, malformed or has expired.
+E/flutter (10075): #0      FirebaseAuthHostApi.signInWithEmailAndPassword (package:firebase_auth_platform_interface/src/pigeon/messages.pigeon.dart:1130:7)
+E/flutter (10075): <asynchronous suspension>
+E/flutter (10075): #1      MethodChannelFirebaseAuth.signInWithEmailAndPassword (package:firebase_auth_platform_interface/src/method_channel/method_channel_firebase_auth.dart:332:22)
+E/flutter (10075): <asynchronous suspension>
+E/flutter (10075): #2      FirebaseAuth.signInWithEmailAndPassword (package:firebase_auth/src/firebase_auth.dart:584:9)
+E/flutter (10075): <asynchronous suspension>
+
+Solution!!!
+
+It seems like there is an error occurring during the authentication process with Firebase. The error message indicates that the supplied authentication credential is incorrect, malformed, or has expired.
+
+Here are a few things you can check and try to resolve the issue:
+
+Double-check the email and password being used for authentication (xamrayevmironshoh@gmail.com in this case) to ensure they are correct.
+Verify that the Firebase project configuration (e.g., API keys, project ID) is correctly set up in your app.
+Ensure that the email/password authentication method is enabled in the Firebase console for your project.
+If you are using Firebase Authentication with reCAPTCHA verification, ensure that the reCAPTCHA token is being provided correctly. It seems like there might be an issue with the reCAPTCHA token being empty or not provided.
+Check for any network connectivity issues that might prevent the authentication request from reaching Firebase servers.
+Make sure that the Firebase SDK versions in your app are compatible with each other and with the Firebase services you are using.

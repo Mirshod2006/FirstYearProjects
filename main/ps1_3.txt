@@ -1,0 +1,38 @@
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main(){
+  int n;
+  cout << "Enter till which number do you want to get expression: ";
+  cin >> n;
+ string expression = "";
+ if( n % 4 == 0 || n % 4 == 3){
+   for(int i = 1; i <= n; i++){
+     if( i % 2 == 1){
+      expression +=("%d + ",i) ;
+    }
+     else{
+      expression +=("%d- ",i); 
+    }
+   }
+   expression +=("%d + ",n);
+   cout << expression;
+ }
+}
+ else{
+  cout << "no solution";
+   }
+function find_expression(n):
+    if n % 4 == 0 or n % 4 == 3:
+        expression = ""
+        for i = 1 to n-1:
+            if i % 2 == 1:
+                expression += i + " + "
+            else:
+                expression += i + " - "
+        expression += n + " = 0"
+        return expression
+    else:
+        return "no solution"

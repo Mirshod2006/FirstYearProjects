@@ -1,0 +1,19 @@
+2
+2
+0
+1
+-1
+
+
+program below gives an input when you enter the value 2 to variable N: 
+def MysteryPrint (N):
+    if (N > 0):
+        print (N)
+        MysteryPrint (N - 2)
+    else :
+        print (N)
+        if (N > -1):
+            MysteryPrint (N + 1)
+            
+N=int(input())
+MysteryPrint(N)

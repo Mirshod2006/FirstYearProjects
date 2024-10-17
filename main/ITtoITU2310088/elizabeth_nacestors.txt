@@ -1,0 +1,15 @@
+In this text file i gonna represent the ancestors of elizabeth!
+1)ancestor(george1,elizabeth)
+  false
+2)ancestor(sophia,elizabeth)
+  false
+3)ancestor(charles1,elizabeth)
+  false
+4)ancestor(charles2,elizabeth)
+  false
+5)ancestor(catherine,elizabeth)
+  false
+6)ancestor(james2,elizabeth)
+  false
+7)ancestor(james1,elizabeth)
+  true

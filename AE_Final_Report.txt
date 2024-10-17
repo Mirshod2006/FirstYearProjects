@@ -1,0 +1,31 @@
+    LOGIC OF THE FINAL REPORT
+Problem Identification( Clearly identifies and 
+        articulate the problem)  ===> Needs Assessment(Thorough research approach,
+                                            analysis of gathered information) ===>Project Goals(Clear and specific goals
+                                                                                          addressing the problem) ===>Brainstorming Solutions(Generate  creative and feasible
+                                                                                                                                    ideas for solutions) 
+Development(Develops an effective website
+            incorporating planned features) ===> Collaboration(Engages stackeholders,
+                                                               seeks input and feedback) ===>Sustainability(Designs for scalability, affordability, and 
+                                                                                                           adaptability.Consider capasity building)===>Evaluation and Impact Measurement (Establishes relevant metrics, collects and presents data)  
+     
+
+
+PROBLEM IDENTIFICATION
+It is the fact that Uzbekistan is one of the drastically enhancing country in the world. Uzbekistan is improving itself from each aspect,hence in terms of IT. As you know, the whole text is about development of IT causes what kind of problems has on the environment?, and what are they ?
+Before speaking about the Impact of IT on the environment, we have to know "what is Information Technology?"! 
+The term "technology" has been a part of our lexicon for centuries, yet its precise meaning remains enigmatic. While some may view it simply as the tools and devices we utilize in our daily lives, for others it encompasses the intricate processes and strategies by which these tools are utilized. In whichever way we choose to comprehend it, one thing is certain: technology is intricately interwoven with our surroundings. Like a coin with two distinct sides, technology brings about both positive and negative consequences. Thus, we are left to ponder: Is technology a double-edged sword, or is our inability to find a harmonious balance between technological advancement and the preservation of the natural world at fault?
+
+Through surveys and interviews with people from Uzbekistan, we tried to define the benefits of IT technologies and the difficulties at getting used to IT technologies.
+
+I prefer to begin my report with the information that our first candidate  provided.
+In the modern world, remarkable strides have been made in multiple industries including e-commerce, social media, education, leisure, and finance, all thanks to communication technologies in Uzbekistan.During our survey, our first participant mentioned that occuring advancements have revolutionized our daily routines, with many relying heavily on these technologies to carry out their tasks, resulting in heightened productivity. Nevertheless,according to him, as our dependence on technology increases, there has been a corresponding decline in individual ambition and potential. Particularly evident in densely populated urban areas, a lack of self-awareness has led to a decrease in drive and personal growth among certain individuals.
+To solve this problem, it is important that we get people involved in beautification and community activities.
+
+As for the second member of intreview, the emergence of new information technology has significant environmental consequences, as these technologies are reliant on electricity.In the fact, in Uzbekistan, there is a growing demand for energy, resulting in the construction of energy production facilities throughout the country. Because that person lives near to  the Thermal Power Station, these facilities emit hazardous toxins that are negatively impacting the local community. While this may seem like a straightforward issue, if it remains unaddressed, it could potentially lead to increased mortality and the widespread effects of pollution. To combat these problems, manufacturing companies must prioritize the production of energy-efficient equipment and promote the use of renewable energy sources. Additionally, educating the public on proper and efficient electricity usage, particularly in densely populated areas, is crucial.
+
+By gathering all these information,we were convinced that the website we had to create should encourage people to come together as a community and keep the environment clean.
+As a solution, we can present our website that accommodates a lot of features in it. First of them, individuals can contact to any company like BETA AGRO INVEST that deals with growing scenic,fruit trees and plants in order to grow any kind of plants.Also, that website sends many more notifications to make inform users about community activities that are hold by sponsors.Another main feature of website is that it helps individuals how to deal with collecting rubish correctly and recycling them, and also trash are purchesed by recycling companies such as Utilizatsiya.uz.    
+We are in search of investers and stackholders to represent our website to implement our project work.
+
+In the process of conducting researchs, I found myself again.Because, I thought I do not have pretty well linguistic skills,problem solving skills and collaboration with others,but during interviews and project,my main task was solving problems, I could manage it. 

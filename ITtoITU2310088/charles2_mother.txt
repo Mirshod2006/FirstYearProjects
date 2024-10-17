@@ -1,0 +1,7 @@
+MOTHER OF CHARLES2:
+1) mother(elizabeth,charles).
+  false
+2) mother(catherine,charles).
+  false
+3) mother(sophia,charles).
+  false

@@ -1,0 +1,6 @@
+1)grandfather(charles1, james1).
+true
+2)grandfather(charles1, charles2).
+true
+3)grandmother(elizabeth, james1).
+true

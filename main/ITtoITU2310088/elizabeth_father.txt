@@ -1,0 +1,3 @@
+FATHER OF ELIZABETH:
+1) father(james1,elizabeth).
+  true
